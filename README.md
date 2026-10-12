@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 5 |
+| 7 | 5 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
-- [strings](#strings) (1)
+- [implementation](#implementation) (5)
+- [strings](#strings) (2)
 
 ---
 
@@ -42,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
@@ -52,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 
 ---
 
