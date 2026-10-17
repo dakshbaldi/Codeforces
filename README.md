@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 8 |
+| 17 | 8 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (13)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (14)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (7)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -43,6 +43,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1968/B%20-%20Prefiquence/solution.cpp) |
 
 ### implementation
@@ -59,6 +60,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
@@ -92,6 +94,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1968/B%20-%20Prefiquence/solution.cpp) |
 
