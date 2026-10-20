@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (15)
-- [math](#math) (5)
+- [implementation](#implementation) (16)
+- [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (5)
 - [strings](#strings) (9)
@@ -48,6 +48,7 @@
 |---|---------|------------|----------|
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
 
 ### games
 
@@ -88,6 +89,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
 
 ### math
 
@@ -98,6 +100,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.cpp) |
+| 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
 
 ### number theory
 
