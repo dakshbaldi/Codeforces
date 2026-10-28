@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 11 |
+| 36 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (18)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (19)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (3)
 
@@ -39,6 +39,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
@@ -67,6 +68,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
@@ -92,6 +94,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
@@ -125,6 +128,7 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
