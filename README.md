@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 11 |
+| 39 | 11 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (9)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [games](#games) (1)
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (19)
 - [math](#math) (12)
-- [number theory](#number-theory) (3)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (6)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (3)
@@ -51,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
@@ -124,6 +125,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
