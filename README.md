@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 12 |
+| 43 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (1)
@@ -32,6 +33,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/dakshbaldi/Codeforces/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### brute force
 
